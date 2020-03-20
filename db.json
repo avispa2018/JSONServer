@@ -8,6 +8,10 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
+  "news": [
+    { "id": 1, "Ayudando a las PYMEs a teletrabajar con Microsoft Teams ": "Las pymes necesitan estar en contacto con sus clientes para mantener el negocio en estos días tan complicados. Jared Spataro comparte aquí algunas recomendaciones para las pequeñas y medianas empresas.", "commentId": 1 },
+    { "id": 2, "Trabajar desde casa y mantenerse seguro. Guía para CISOs": "Desde Microsoft compartimos prácticas y recomendaciones que pueden ayudar al CISO de cualquier empresa a garantizar una mayor protección del teletrabajo.", "commentId": 1 }
+  ],
   "profile": {
     "name": "avispa2018"
   }
